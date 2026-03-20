@@ -1,0 +1,12 @@
+{
+"name": "console.log("🚀 Aplicación ejecutándose correctamente");",
+"version": "1.0.0",
+"scripts": {
+  "start": "node app.js"
+}
+}
+
+"scripts": {
+"start": "node app.js",
+"test": "node test.js"
+}
